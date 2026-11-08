@@ -1,0 +1,5 @@
+this is just for git practice.
+leaned:
+git log
+git log --oneline
+git show commit-id
