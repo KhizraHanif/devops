@@ -1,5 +1,9 @@
 this is just for git practice.
 leaned:
+git status
+git add .
+git commit -m
+git push origin main
 git log
 git log --oneline
 git show commit-id
